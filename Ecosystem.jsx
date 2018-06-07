@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import { Tabs, Table, Collapse } from 'antd';
 import 'antd/dist/antd.css';
 
+
+
+
 const Panel = Collapse.Panel;
 const TabPane = Tabs.TabPane;
 
